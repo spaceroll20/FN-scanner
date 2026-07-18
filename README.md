@@ -15,7 +15,7 @@ Only run this against hosts you own or have **explicit written permission** to t
 ## Installation
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/spaceroll20/FN-scanner.git>
 cd <repo>
 python3 scanner.py --help
 ```
